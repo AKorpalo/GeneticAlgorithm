@@ -1,0 +1,7 @@
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\bin\Debug\ONDR_Lab2.exe.config
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\bin\Debug\ONDR_Lab2.exe
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\bin\Debug\ONDR_Lab2.pdb
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\obj\Debug\ONDR_Lab2.csprojResolveAssemblyReference.cache
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\obj\Debug\ONDR_Lab2.csproj.CoreCompileInputs.cache
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\obj\Debug\ONDR_Lab2.exe
+c:\users\weynard\source\repos\ONDR_Lab2\ONDR_Lab2\obj\Debug\ONDR_Lab2.pdb
